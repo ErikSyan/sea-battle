@@ -1,0 +1,109 @@
+.aqa{
+    
+    float: left;
+    height: 25%;
+    width: 25px;
+    margin: 0px 0px 0px 0px;
+   
+    
+}
+
+.axa{
+    float: left ;
+    width: 450px;
+    
+    height: 50px;
+}
+
+.asa{
+    
+    float: left;
+    width: 15px;
+    height: 15%;
+   
+}
+
+TDD{
+    
+    scrollbar-color: red;
+}
+
+table tbody tr th td {
+    padding: 30px;
+}
+
+@media screen and (max-height: 50px) and (min-height: 50px){
+    .aqa{
+        width: 100%;
+    }
+    
+
+    .asa{
+        width: 100%;
+    }
+    }
+
+
+
+    .verev{
+        
+        width: 100%;
+        height: 25px;
+    }
+
+
+    .dzax{
+        width: 2%;
+        height: 500px;
+        
+        float: left;
+    }
+
+    .aj{
+        width: 0%;
+        height: 500px;
+        float: right;
+        
+    }
+
+
+    .MEK{
+        margin: 10px 0px 0px 0px;
+    }
+
+.xnk{
+    
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.onk{
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 25px;
+    height: 25px;
+}
+    
+.tiv{
+    border-style: unset;
+   margin: 0px 0px 0px 5px;
+}
+
+
+
+   /*
+   background-color: black;
+   background-color: rgb(255, 255, 255);
+   background-color: black;
+
+.axa{
+    float: left ;
+    width: 18%;
+    
+    height: 500px;
+}
+   
